@@ -44,18 +44,17 @@ current_vibe: "Listening to Synthwave & contemplating [don't know what]"
 | ⚡ **[Project Beta](https://github.com/PalashMendhe/robotics_arm_ws)** | UR-5 Robotic Arm Replica | `[████████░░]` 80% *(In alpha)* |
 | 📚 **[Project γ](https://github.com/PalashMendhe/Reinforcement_learning_ws_go1)** | *Unitree Go1 Quadruped Locomotion — Pure RL Checkpoint (Pre-CPG)* | `[███████░░░]` 70% |
 
-### 🛠️ System Specs & Toolbox
-
 ### 🤖 Robotics & Autonomy Stack
 
 <!-- Core Middleware & Frameworks -->
 #### ⚙️ Middleware & Frameworks
 [![ROS 2](https://img.shields.io/badge/ROS_2-Jazzy/Lyrical-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/)
 
+
 #### 🧭 Navigation, Planning & SLAM
-[![Nav2](https://img.shields.io/badge/Nav2-Autonomous_Navigation-007ACC?style=for-the-badge)](https://navigation.ros.org/)
-[![MoveIt 2](https://img.shields.io/badge/MoveIt_2-Motion_Planning-4B6584?style=for-the-badge)](https://moveit.picknik.ai/)
-[![SLAM](https://img.shields.io/badge/SLAM-Cartographer_%7C_SLAM_Toolbox-E67E22?style=for-the-badge)](https://github.com/SteveMacenski/slam_toolbox)
+[![Nav2](https://img.shields.io/badge/Nav2-Autonomous_Navigation-007ACC?style=for-the-badge&logo=ros&logoColor=white)](https://navigation.ros.org/)
+[![MoveIt 2](https://img.shields.io/badge/MoveIt_2-Motion_Planning-4B6584?style=for-the-badge&logo=ros&logoColor=white)](https://moveit.picknik.ai/)
+[![SLAM](https://img.shields.io/badge/SLAM-Cartographer_%7C_Toolbox-E67E22?style=for-the-badge&logo=ros&logoColor=white)](https://github.com/SteveMacenski/slam_toolbox)
 
 #### 🌐 Simulation & Physics Engines
 [![Gazebo](https://img.shields.io/badge/Gazebo_Sim-Harmonic_%2F_Classic-F26522?style=for-the-badge)](https://gazebosim.org/)
@@ -67,6 +66,10 @@ current_vibe: "Listening to Synthwave & contemplating [don't know what]"
 #### 💻 Core Languages & Environment
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,c,linux,ubuntu,bash,git,docker&theme=dark" />
+  <a href="https://docs.ros.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="48" height="48" alt="ROS" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ### 📊 Activity & Contributions
