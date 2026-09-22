@@ -12,7 +12,7 @@
 
 <!-- QUICK BADGES / SOCIALS (Flat & Minimal) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palash-mendhe-1a2949323)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.palashmendhe777@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palashmendhe777@gmail.com)
 
 </div>
 
@@ -31,7 +31,7 @@ loves:
   - "Robotics and Simulation"
   - "Reinforcement learning for legged robotics"
   - "Still using a potato laptop for simulation"
-  - "I hate DSA but love writing algorithms for navigation"
+  - "Navigation Algorithms > leetcode/cp grind"
 
 current_vibe: "Listening to Synthwave & contemplating [don't know what]"
 ```
@@ -41,7 +41,7 @@ current_vibe: "Listening to Synthwave & contemplating [don't know what]"
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | 🪐 **[Project Alpha](https://github.com/PalashMendhe/robotics-ws)** | Autonomous Mobile Robot (AMR) & Multi-Station Warehouse Logistics System | `[██████████░]` 95% *(It never completes)* 
-| ⚡ **[Project Beta](https://github.com/PalashMendhe/robotics_arm_ws)** | UR-5 Robotic Arm Replica | `[████████░░]` 80% *(In alpha)* |
+| ⚡ **[Project Beta](https://github.com/PalashMendhe/robotics_arm_ws)** | UR-5 Robotic Arm Replica | `[███████░░░]` 70% *(In alpha v2)* |
 | 📚 **[Project γ](https://github.com/PalashMendhe/Reinforcement_learning_ws_go1)** | *Unitree Go1 Quadruped Locomotion — Pure RL Checkpoint (Pre-CPG)* | `[███████░░░]` 70% |
 
 ### 🤖 Robotics & Autonomy Stack
