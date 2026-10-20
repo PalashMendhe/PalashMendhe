@@ -55,7 +55,7 @@ current_vibe: "Listening to Synthwave & tuning reward weights at 2 AM"
   <tbody>
     <tr>
       <td>
-        🐕 <b><a href="https://github.com/PalashMendhe/Reinforcement_learning_ws_go1">Hybrid CPG-RL Quadruped Locomotion</a></b><br/>
+        🐕 <b><a href="https://github.com/PalashMendhe/deep-rl-and-cpg-ws">Hybrid CPG-RL Quadruped Locomotion</a></b><br/>
         <i>(Unitree Go1)</i>
       </td>
       <td>
@@ -99,7 +99,7 @@ current_vibe: "Listening to Synthwave & tuning reward weights at 2 AM"
         • <b>Tech:</b> <code>ROS 2</code> <code>MoveIt 2</code> <code>Gazebo Harmonic</code> <code>Python</code> <code>Docker</code> <code>Pytest</code>
       </td>
       <td>
-        <code>[█████████░]</code> <b>Active / V2</b><br/>
+        <code>[█████████░]</code> <b>In migration / V3</b><br/>
         🛡️ Continuous 3D safety bounds<br/>
         🐳 Automated Docker + GitHub Actions CI
       </td>
